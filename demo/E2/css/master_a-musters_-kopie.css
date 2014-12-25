@@ -1,0 +1,142 @@
+#u256-8
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	position: fixed;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u256-8:hover
+{
+	background-color: #AC5051;
+	background-color: rgba(152, 37, 38, 0.8);
+	-pie-background: rgba(152, 37, 38, 0.8);
+}
+
+#u256-8.MuseLinkActive
+{
+	background-color: #A43F40;
+	background-color: rgba(152, 37, 38, 0.88);
+	-pie-background: rgba(152, 37, 38, 0.88);
+}
+
+.Button
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.9);
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+}
+
+#u256-8:hover p,#u256-8:hover span,#u256-8.MuseLinkActive p,#u256-8.MuseLinkActive span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u256,#u256-2,#u256-4,#u256-6
+{
+	line-height: 33px;
+}
+
+#u257-8
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 33px;
+	position: fixed;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u257-8:hover
+{
+	background-color: #AC5051;
+	background-color: rgba(152, 37, 38, 0.8);
+	-pie-background: rgba(152, 37, 38, 0.8);
+}
+
+#u255-7
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 28px;
+	position: fixed;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u255-7:hover
+{
+	background-color: #AC5051;
+	background-color: rgba(152, 37, 38, 0.8);
+	-pie-background: rgba(152, 37, 38, 0.8);
+}
+
+#u260-8
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 33px;
+	position: fixed;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u260-8:hover
+{
+	background-color: #AC5051;
+	background-color: rgba(152, 37, 38, 0.8);
+	-pie-background: rgba(152, 37, 38, 0.8);
+}
+
+#u259-7
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 28px;
+	position: fixed;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u259-7:hover
+{
+	background-color: #AC5051;
+	background-color: rgba(152, 37, 38, 0.8);
+	-pie-background: rgba(152, 37, 38, 0.8);
+}
+
+#u257-8:hover p,#u257-8:hover span,#u255-7:hover p,#u255-7:hover span,#u260-8:hover p,#u260-8:hover span,#u259-7:hover p,#u259-7:hover span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u256-3,#u256-5,#u257-3,#u257-5,#u255-4,#u260-3,#u260-5,#u259-4
+{
+	color: #D63B1F;
+	font-family: ruda, sans-serif;
+	font-weight: 900;
+}
+

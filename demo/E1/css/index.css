@@ -1,0 +1,127 @@
+.version.index /* version checker */
+{
+	color: #0000F3;
+	background-color: #71D535;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/background.jpg") no-repeat center top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 683px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 17px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu475-8
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 194px;
+	margin-left: -25px;
+}
+
+#u475-8
+{
+	z-index: 2;
+	width: 190px;
+	min-height: 190px;
+}
+
+#u479-8
+{
+	z-index: 10;
+	width: 190px;
+	min-height: 190px;
+	margin-left: 185px;
+	margin-top: 40px;
+}
+
+#u479-8:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 40px 0px 0px 185px;
+}
+
+#pu476-7
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	margin-left: 489px;
+}
+
+#u476-7
+{
+	z-index: 18;
+	width: 190px;
+	min-height: 190px;
+}
+
+#u475-8:hover,#u476-7:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 0px;
+}
+
+#u478-8
+{
+	z-index: 25;
+	width: 190px;
+	min-height: 190px;
+	margin-left: 48px;
+	margin-top: 226px;
+}
+
+#u478-8:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 226px 0px 0px 48px;
+}
+
+#u477-7
+{
+	z-index: 33;
+	width: 190px;
+	min-height: 190px;
+	margin-right: -10000px;
+	margin-top: 274px;
+	left: 768px;
+}
+
+#u477-7:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 274px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

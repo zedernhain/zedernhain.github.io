@@ -1,0 +1,125 @@
+#u475-8
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 33px;
+	position: relative;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u475-8:hover
+{
+	background-color: #F58B65;
+	background-color: rgba(241, 90, 36, 0.7);
+	-pie-background: rgba(241, 90, 36, 0.7);
+}
+
+.Button
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.9);
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+}
+
+#u479-8
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 33px;
+	position: relative;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u479-8:hover
+{
+	background-color: #F58B65;
+	background-color: rgba(241, 90, 36, 0.7);
+	-pie-background: rgba(241, 90, 36, 0.7);
+}
+
+#u476-7
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 28px;
+	position: relative;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u476-7:hover
+{
+	background-color: #F58B65;
+	background-color: rgba(241, 90, 36, 0.7);
+	-pie-background: rgba(241, 90, 36, 0.7);
+}
+
+#u478-8
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 33px;
+	position: relative;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u478-8:hover
+{
+	background-color: #F58B65;
+	background-color: rgba(241, 90, 36, 0.7);
+	-pie-background: rgba(241, 90, 36, 0.7);
+}
+
+#u477-7
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	-webkit-box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	box-shadow: 0px 0px 17px 4px rgba(206, 122, 89, 0.5);
+	background-color: #FEE5BA;
+	background-color: rgba(254, 218, 157, 0.7);
+	line-height: 28px;
+	position: relative;
+	-pie-background: rgba(254, 218, 157, 0.7);
+}
+
+#u477-7:hover
+{
+	background-color: #F58B65;
+	background-color: rgba(241, 90, 36, 0.7);
+	-pie-background: rgba(241, 90, 36, 0.7);
+}
+
+#u475-8:hover p,#u475-8:hover span,#u479-8:hover p,#u479-8:hover span,#u476-7:hover p,#u476-7:hover span,#u478-8:hover p,#u478-8:hover span,#u477-7:hover p,#u477-7:hover span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u475-3,#u475-5,#u479-3,#u479-5,#u476-4,#u478-3,#u478-5,#u477-4
+{
+	color: #D63B1F;
+	font-family: ruda, sans-serif;
+	font-weight: 900;
+}
+

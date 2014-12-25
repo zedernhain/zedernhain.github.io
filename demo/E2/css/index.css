@@ -1,0 +1,167 @@
+.version.index /* version checker */
+{
+	color: #0000F5;
+	background-color: #5D44FC;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/background.jpg") no-repeat center top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 165px;
+	padding-right: 1024px;
+	padding-bottom: 535px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u390
+{
+	z-index: 40;
+	height: 165px;
+	top: 0px;
+}
+
+#u390-bw
+{
+	z-index: 40;
+}
+
+#u325-4
+{
+	z-index: 41;
+	width: 449px;
+	min-height: 64px;
+	top: 45px;
+	left: 63px;
+}
+
+#u323-4
+{
+	z-index: 45;
+	width: 255px;
+	min-height: 52px;
+	top: 107px;
+	left: 97px;
+}
+
+#u256-8
+{
+	z-index: 2;
+	width: 190px;
+	min-height: 190px;
+	top: 207px;
+	left: 50%;
+	margin-left: -518px;
+}
+
+#u256-8:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 0px 0px 0px -518px;
+}
+
+#u256-8.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 0px 0px 0px -518px;
+}
+
+#u257-8
+{
+	z-index: 10;
+	width: 190px;
+	min-height: 190px;
+	top: 207px;
+	left: 50%;
+	margin-left: -306px;
+}
+
+#u257-8:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 0px 0px 0px -306px;
+}
+
+#u255-7
+{
+	z-index: 18;
+	width: 190px;
+	min-height: 190px;
+	top: 207px;
+	left: 50%;
+	margin-left: -95px;
+}
+
+#u255-7:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 0px 0px 0px -95px;
+}
+
+#u260-8
+{
+	z-index: 25;
+	width: 190px;
+	min-height: 190px;
+	top: 207px;
+	left: 50%;
+	margin-left: 116px;
+}
+
+#u260-8:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 0px 0px 0px 116px;
+}
+
+#u259-7
+{
+	z-index: 33;
+	width: 190px;
+	min-height: 190px;
+	top: 207px;
+	left: 50%;
+	margin-left: 328px;
+}
+
+#u259-7:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 190px;
+	margin: 0px 0px 0px 328px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

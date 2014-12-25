@@ -1,0 +1,24 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1419435164792">
+  <folder name="css">
+    <file name="site_global.css" crc="35501913"/>
+    <file name="master_a-musters.css" crc="3846591368" ref="tanz-1:index"/>
+    <file name="master_a-musters_-kopie.css" crc="4118373573" ref="index"/>
+    <file name="tanz-1.css" crc="32208662" ref="tanz-1"/>
+    <file name="iefonts_tanz-1.css" crc="473598216" ref="tanz-1"/>
+    <file name="index.css" crc="4116530428" ref="index"/>
+    <file name="iefonts_index.css" crc="287589673" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:tanz-1"/>
+    <file name="museutils.js" crc="3777594392" ref="index:tanz-1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:tanz-1"/>
+    <file name="pie.js" crc="3827607177" ref="index:tanz-1"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:tanz-1"/>
+  </folder>
+  <folder name="images">
+    <file name="background.jpg" crc="436593792" ref="index:tanz-1"/>
+    <file name="bei-der-probe-crop-u452.jpg" crc="400153176" ref="tanz-1"/>
+  </folder>
+  <file name="index.html" crc="114583160" mt="1419435016959" redirect="true"/>
+  <file name="tanz-1.html" crc="103756508" mt="1419435034293" redirect="true"/>
+</manifest>
